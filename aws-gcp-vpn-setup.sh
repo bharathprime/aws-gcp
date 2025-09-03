@@ -1,12 +1,12 @@
 
-project_id="consulting-internal-project"
+project_id="gcp-project-id"
 gcp_vpc=""
 gcp_region=""
 # Define PreSharedKeys
-PSK1="S_Ap9ZkLmXyT38QwJvFhC2NdRbGiUt"
-PSK2="V_Mq7WrJtKcXp9DyBfGhZ4LsNaQiEu"
-PSK3="T_Hd5XwVrLqMp8JzFyKnGbCsRoUiNa"
-PSK4="R_Kf6BnVpLzXt3QyWhMdJcGaUsIoTr"
+PSK1="S_Ap9ZkLmXyT38xxxxxxxxxxxxxxxx"
+PSK2="V_Mq7WrJtKcXp9xxxxxxxxxxxxxxxx"
+PSK3="T_Hd5XwVrLqMp8xxxxxxxxxxxxxxxx"
+PSK4="R_Kf6BnVpLzXt3xxxxxxxxxxxxxxxx"
 
 #----------------------------------- List all GCP regions and select one ---------------------------
 
